@@ -10,5 +10,6 @@ Kumpulan data bunga Iris adalah kumpulan data multivariat yang diperkenalkan ole
   import numpy as np
 
 #read data
+
   df = pd.read_csv('iris.data')
 
